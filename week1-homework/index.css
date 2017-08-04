@@ -4,7 +4,7 @@
 }
 
 html {
-    background: url("img\image5.jpg");
+    background: url("img/image5.jpg");
     background-size: cover;
     background-position: right top;
     overflow-x: hidden;
